@@ -791,19 +791,11 @@ h6 {
   }
 }
 
-.sec-4 .wrapper-reveal .block-vertical {
-  height: 100%;
-  position: absolute;
-  width: 100%;
-  z-index: 10;
-  display: none;
-}
-
 .sec-4 .wrapper-reveal .box_1 {
   background-color: #121921;
   color: #fff;
   padding: 45px;
-  width: 310px;
+  width: 432.5px;
 }
 
 .sec-4 .wrapper-reveal .box_1 h3 {
